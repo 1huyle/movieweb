@@ -5,17 +5,6 @@
 
 ---
 
-## Thông tin sinh viên
-
-- Họ và tên sinh viên 1: Lê Nhật Huy
-- MSSV: 52100804
-- SĐT: 0352292212
-- Họ và tên sinh viên 2: Lưu Khang Huy
-- MSSV: 52100805
-- SĐT: 0986648481
-
----
-
 ## Cấu trúc thư mục
 
 ```
